@@ -1,0 +1,21 @@
+
+.bg-box {
+    background:
+    url(../img/grass-png-images-pictures-transparent-28.png) left bottom repeat-x, 
+    url(../img/pole-zelen-trava-dom-derevya.jpg) center center no-repeat,
+    url(../img/lamp-png-0.png) left top repeat-x, 
+    url(../img/Ёжик.png) left top repeat-y,
+    url(../img/cake.png) right top repeat-y;
+    background-size:
+    200px 80px, 
+    450px 280px,
+    20px 30px, 
+    20px 20px,
+    25px 25px;
+    background-color: green;
+    width: 500px;
+    height: 100%;
+    display: block;
+    padding: 200px;     
+}
+
